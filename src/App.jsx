@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Hifza kanwal",
-  title: "Web Designer & Content Creator",
+  title: "FLutter dev",
   email: "alex@example.com",
   gitHub: "microsoft",
   instagram: "microsoft",
